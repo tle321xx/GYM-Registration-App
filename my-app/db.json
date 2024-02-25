@@ -1,0 +1,85 @@
+{
+  "enquiry": [
+    {
+      "firstName": "John",
+      "lastName": "Doeำำำำำำำำำำำำำำำำำ",
+      "email": "John@John.com",
+      "mobile": 123456,
+      "weight": 64,
+      "height": 1.68,
+      "bmi": 22.67573696145125,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2024-02-24T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "awawawawa",
+      "lastName": "adfgd",
+      "email": "gsdfg",
+      "mobile": 453453,
+      "weight": 45,
+      "height": 1.6,
+      "bmi": 17.578124999999996,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2024-02-24T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "important": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 3
+    },
+    {
+      "firstName": "aaaaaaaaaaa",
+      "lastName": "aaaaaaaa",
+      "email": "tle@tle.com",
+      "mobile": 123456,
+      "weight": 54,
+      "height": 1.65,
+      "bmi": 19.834710743801654,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2024-02-24T17:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
